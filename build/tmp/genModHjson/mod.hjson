@@ -1,0 +1,16 @@
+{
+  hidden: false
+  displayName: Mechanical Power Mod
+  author: QJsummer
+  keepOutlines: false
+  repo: ""
+  description: "114514"
+  main: mechanical.MechanicalPowerMod
+  version: 1.0.2
+  dependencies: []
+  java: true
+  subtitle: ""
+  hideBrowser: false
+  name: mechanical-power-mod
+  minGameVersion: 136
+}

@@ -14,7 +14,7 @@ sourceSets {
     }
 }
 group= "org.example"
-version= "1.0"
+version= "1.0.2"
 java {
     sourceCompatibility = JavaVersion.VERSION_1_8
     targetCompatibility = JavaVersion.VERSION_1_8

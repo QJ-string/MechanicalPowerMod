@@ -1,12 +1,23 @@
-displayName: "%Repository%"
-name: "%Repository%"
-author: "%Owner%"
-main: "%MainClassQualifiedName%"
-repo: "%Owner%/%Repository%"
-subtitle: ""
-description: ""
-version: "1.0"
-minGameVersion: "141"
+#the mod name as displayed in-game
+displayName: "Mechanical Power Mod"
+
+#the internal name of your mod
+name : "mechanical-power-mod"
+
+#your name
+author: "QJsummer"
+
+#the fully qualified main class of the mod
+main: "mechanical.MechanicalPowerMod"
+
+#the mod description as seen in the mod dialog
+description: "114514"
+
+#the mod version
+version: 1.0.2
+
+#the minimum game build required to run this mod
+minGameVersion: 136
+
+#this is a java mod
 java: true
-hidden: false
-dependencies: []

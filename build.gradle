@@ -4,15 +4,15 @@ plugins {
 }
 
 group 'org.example'
-version '1.0'
+version '1.0.2'
 sourceSets {
     main {
         java.srcDirs = ["src"]
     }
 }
 java {
-    targetCompatibility = 8
-    sourceCompatibility = 8
+    targetCompatibility = 10
+    sourceCompatibility = 10
 }
 repositories {
     mavenCentral()
